@@ -1,0 +1,11 @@
+{
+  "name": "exa",
+  "version": "1.0.0",
+  "description": "recomendet products",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "krilleandersen@gmail.com Kristian Andersen",
+  "license": "ISC"
+}
